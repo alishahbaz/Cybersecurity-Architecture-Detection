@@ -1,4 +1,4 @@
-# 08 Cybersecurity Detection
+# 08 Cybersecurity - Detection
 
 > **S = P + D + R**  
 > **Security = Prevention + Detection + Response**
